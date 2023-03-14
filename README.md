@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Bookmarks management API written in Typescript and made with Nest framework, Prisma ORM, PostgreSQL in Docker. Testing with Jest.
 
 ## Installation
 
